@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <ec-canvas ec="{{ line0 }}"></ec-canvas>
+  <ec-canvas ec="{{ line1 }}"></ec-canvas>
+  <ec-canvas ec="{{ line2 }}"></ec-canvas>
+  <ec-canvas ec="{{ line3 }}"></ec-canvas>
+</view>
